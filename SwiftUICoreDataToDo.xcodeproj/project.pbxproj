@@ -14,6 +14,7 @@
 		EC6BB219230534630009B665 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC6BB218230534630009B665 /* Assets.xcassets */; };
 		EC6BB21C230534630009B665 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC6BB21B230534630009B665 /* Preview Assets.xcassets */; };
 		EC6BB21F230534630009B665 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC6BB21D230534630009B665 /* LaunchScreen.storyboard */; };
+		EC6BB22723053B340009B665 /* ToDoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC6BB22623053B340009B665 /* ToDoItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		EC6BB21B230534630009B665 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EC6BB21E230534630009B665 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC6BB220230534630009B665 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC6BB22623053B340009B665 /* ToDoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				EC6BB20F230534610009B665 /* AppDelegate.swift */,
 				EC6BB211230534610009B665 /* SceneDelegate.swift */,
 				EC6BB216230534610009B665 /* ContentView.swift */,
+				EC6BB22623053B340009B665 /* ToDoItem.swift */,
 				EC6BB218230534630009B665 /* Assets.xcassets */,
 				EC6BB21D230534630009B665 /* LaunchScreen.storyboard */,
 				EC6BB220230534630009B665 /* Info.plist */,
@@ -151,6 +154,7 @@
 			files = (
 				EC6BB210230534610009B665 /* AppDelegate.swift in Sources */,
 				EC6BB212230534610009B665 /* SceneDelegate.swift in Sources */,
+				EC6BB22723053B340009B665 /* ToDoItem.swift in Sources */,
 				EC6BB217230534610009B665 /* ContentView.swift in Sources */,
 				EC6BB215230534610009B665 /* SwiftUICoreDataToDo.xcdatamodeld in Sources */,
 			);
